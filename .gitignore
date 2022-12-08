@@ -1,5 +1,4 @@
 /target
 .direnv
 vendor
-Cargo.lock
 .env.local
